@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I enjoy teaching. Here is some of my experience
 nav: true
 nav_order: 2
 ---
@@ -33,7 +33,7 @@ Teaching Assistant for Prof.Jinsuh Lee -->
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Summer 2021 & Spring 2019: Instructor (Rating: 4.83/5)</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Some description</li>
+      <!-- <li class="list-group-item">Some description</li> -->
     </ul>
   </div>
 </div>
