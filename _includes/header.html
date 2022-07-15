@@ -50,6 +50,7 @@
               </li>
               {%- endif %}
 
+
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
@@ -82,6 +83,16 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              <!-- CV -->
+              <li class="nav-item {% if page.url contains 'CV' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/assets/pdf/CV.pdf' | relative_url }}">CV
+                  {%- if page.url contains 'CV' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

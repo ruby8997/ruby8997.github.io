@@ -7,20 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<!-- MGMT32400 - Marketing Management Summer 2021/Spring 2019
-Instructor Rating:4.74/5
-•
-MGMT59000 - Consumer Behavior & Mktg Spring 2022/Spring 2020
-Teaching Assistant for Prof.Ting Zhu
-•
-MGMT59000 - Customer Analytics Spring 2022/Spring 2020
-Teaching Assistant for Prof.Ting Zhu
-•
-MGMT59000 - Applied Marketing Analytics Fall 2018
-Teaching Assistant for Prof.Jinsuh Lee
-•
-MGMT42900 - Experimental Marketing Spring 2018
-Teaching Assistant for Prof.Jinsuh Lee -->
 
 <div class="card mt-3">
   <div class="p-3">
