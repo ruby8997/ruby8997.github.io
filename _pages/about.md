@@ -25,6 +25,6 @@ I’m a Ph.D. Candidate at [Krannert School of Management](https://krannert.purd
 
 I received my Master in Marketing from Purdue univeristy, my Master and Bachelor in [Software Engineering](https://www.nju.edu.cn/EN/7f/70/c7136a163696/page.htm) from Nanjing Unversity. I also worked as a financial manager at the [Agriculture Bank of China](https://www.abchina.com/en/), a full-time intern data scientist in [eBay China Development Center](https://www.ebayinc.com/company/), and a full-time intern software engineer at [Baidu.Inc](https://ir.baidu.com/).
 
-In my spare time, I enjoy doing sports (mostly running, cycling, gymming and swimming), traveling, and watching football games with friends and family. I also like reading history, philosophy, and art. 
+In my spare time, I enjoy doing sports (mostly running, cycling, gymming, and swimming), traveling, and watching football games with friends and family. I also like reading history, philosophy, and art. 
 
 <span style="color:red"> ** I'm currently on the job market seeking for an assistant professor position. If you’d like to get in touch, please don’t hesitate to email me at yan245 AT purdue.edu. </span>
