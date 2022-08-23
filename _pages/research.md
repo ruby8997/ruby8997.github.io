@@ -12,7 +12,7 @@ horizontal: false
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Impact of Club Store Shopping on Household Food Carbon Footprint</h5>
+        <h5><span class="font-weight-bold">Impact of Club Store Shopping on Household Food Carbon Footprint</span> (Job Market Paper)</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <!-- <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
@@ -20,8 +20,7 @@ horizontal: false
         </span> -->
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">with Ting Zhu and Li Song
-(Job Market Paper)</h6>
+    <h6 class="mt-2 mt-sm-0">with Ting Zhu and Li Song. Prepare for submitting to <span class="font-italic">Marketing Science</span>.</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
     Climate change is having a consequential effect on the environment, and shopping choices in daily life
 can intensify or lessen a household’s impact on the environment. Because the food system is responsible for
@@ -59,8 +58,7 @@ Split-Up</h5>
         </span> -->
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">with Qiang Liu and Ting Zhu
-(Job Market Paper)</h6>
+    <h6 class="mt-2 mt-sm-0">with Qiang Liu and Ting Zhu. Will submit to <span class="font-italic">Journal of Marketing</span> soon.</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       Crowdfunding platforms are a fast-growing approach for entrepreneurs to finance their new product devel-
 opments. Improving crowdfunding campaigns’ performance with more diverse participants after platform
@@ -77,6 +75,7 @@ campaigns after the platform split-up. These findings are consistent with the no
 motivations for supporting a campaign drive creators’ information disclosure strategy. The study provides
 important managerial implications for platforms and participants.
     </ul>
+    <a type="button" class="btn-sm btn-outline-primary mt-2" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3723845">SSRN</a>
   </div>
 </div>
 
@@ -93,8 +92,7 @@ Influencer Types</h5>
         </span> -->
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">with Xing Fang
-(Job Market Paper)</h6>
+    <h6 class="mt-2 mt-sm-0">with Xing Fang. Under second-round revision at the <span class="font-italic">International Journal of Advertising</span>.</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       Identifying the right influencers for brands is key to a successful social media marketing campaign. This
 study proposes a data-driven framework to examine the value of communication styles in social media
