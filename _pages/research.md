@@ -58,7 +58,7 @@ Split-Up</h5>
         </span> -->
       </div>
     </div>
-    <h6 class="mt-2 mt-sm-0">with Qiang Liu and Ting Zhu. Will submit to <span class="font-italic">Journal of Marketing</span> soon.</h6>
+    <h6 class="mt-2 mt-sm-0">with Qiang Liu and Ting Zhu. Under review at <span class="font-italic">Journal of Marketing</span>.</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       Crowdfunding platforms are a fast-growing approach for entrepreneurs to finance their new product devel-
 opments. Improving crowdfunding campaigns’ performance with more diverse participants after platform
